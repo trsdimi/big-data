@@ -38,6 +38,7 @@ NYF,New York Futures Exchange
 TFE,Toronto Futures Exchange
 MIO,Montreal SE IOM division
 NMS,NASDAQ Stock Market Exchange Large Cap (formally known as NASDAQ NATIONAL MARKET SYSTEM)
+NCM,Non-Clearing Membership
 TOE,Toronto Options Exchange
 MOE,Montreal Options Exchange
 VAO,Vancouver Options Exchange
@@ -132,6 +133,8 @@ VCE,Venice Stock Exchange
 ISF,Istanbul Stock Exchange (Mutual Funds)
 AQC,NASDAQ Limit Order Matching System (NAQCESS)
 HEX,Helsinki Exchange
+HEL,Finland
+EBS,Electronic Broking Services
 WSE,Warsaw Stock Exchange
 BOR,Bordeaux Stock Exchange
 LIL,Lille Stock Exchange
@@ -232,6 +235,7 @@ COX,OFEX - Chi-X
 SZM,Shenzhen Mercantile Exchange
 SZF,Shenzhen Futures Exchange
 JBT,Japan Bond Trading Co. Ltd.
+JPX,Japan Exchange Group Inc
 MDC,Maebashi Dried Cocoon Exchange
 NTC,Nagoya Textile Exchange
 YSE,Yokohama Silk Exchange
