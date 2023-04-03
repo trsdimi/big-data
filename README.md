@@ -2,19 +2,18 @@
 
 ## Authors
 
- Arthur Moane & Dmitry Tereshchenko
+Arthur Moane & Dmitry Tereshchenko
 
 ## TODO
 
-- [x] Sauvegarder les donnees des banques dans un fichier + recuperer leurs exchanges
-- [ ] Associer les symboles des exchanges des banques aux pays
-- [ ] Associer les 48 acteurs de la blockchain non anonymyses aux pays (p-e plusieurs pays par acteur)
-- [ ] Associer les 52 acteurs de la blockchain anonymysees aux pays aussi
-- [ ] Peut-etre au liee d'associer les acteurs, associer leurs transactions ?
+- [x] Implementer Isolation Forest sur un minimum de donnees
+- [ ] Implementer au moins 3 (p-e meme 5) algo de recherche d'anomalies
+- [ ] Tester ces algo avec plus de donnees
+- [ ] Expliquer les resulats obtenus
+- [ ] Expliquer les algo
 
 ## Links
 
 - Defi EGC 2024: https://github.com/Yquetzal/DefiEGC2024
-- World Happiness Report 2015-2021: https://www.kaggle.com/datasets/mathurinache/world-happiness-report-20152021
 
 ## Sources
