@@ -6,6 +6,7 @@ Arthur Moane & Dmitry Tereshchenko
 
 ## TODO
 
+- [ ] Ecrire une introduction
 - [ ] Identitifier les donnees utiles, construire le dataset (transactions et blochain_global)
 - [ ] Analyse generale (moyennes, medianes, etc) -> normalemenat rapide a faire
 - [ ] Auto‑correlation function of BTC volume (comprendre et expliquer la formule avec le log et les plot des ACF)
